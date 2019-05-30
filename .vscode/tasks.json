@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/SuperCrm.Customer.csproj"
+                "${workspaceFolder}/SuperCrm.Customer/SuperCrm.Customer.csproj"
             ],
             "problemMatcher": "$tsc"
         },
